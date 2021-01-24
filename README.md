@@ -1,3 +1,1 @@
-Project UAS Pemrograman Web
-Nama : Pramana Arya Diputra
-Nim : 1810510008
+Project UAS Pemrograman Web (Pramana Arya Diputra - 1810510008)
